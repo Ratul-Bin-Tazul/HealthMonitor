@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HealthMonitor</string>
+    <string name="step_count_pref">count pref</string>
+    <string name="step_count">step count number</string>
+    <string name="user_data_pref" />
+    <string name="user_data" />
+</resources>
